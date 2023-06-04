@@ -1,0 +1,10 @@
+setup.py
+Clientes/Mod_Clientes.py
+Clientes/__init__.py
+Furtado_2Entregable.egg-info/PKG-INFO
+Furtado_2Entregable.egg-info/SOURCES.txt
+Furtado_2Entregable.egg-info/dependency_links.txt
+Furtado_2Entregable.egg-info/top_level.txt
+Productos/Mod_Productos.py
+Productos/Productos_Test.py
+Productos/__init__.py
